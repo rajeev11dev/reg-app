@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 
-	  <h1>DevOps - User Registrations -Deploy through ansible</h1>
+	  <h1>DevOps - User Registrations</h1>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
